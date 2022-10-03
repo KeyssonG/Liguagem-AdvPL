@@ -15,7 +15,19 @@
 	"lastPrograms": [
 		{
 			"label": "U_OLAMUNDO"
+		},
+		{
+			"label": "U_TesteCad"
+		},
+		{
+			"label": "U_MODELUM"
+		},
+		{
+			"label": "U_DtFintAlt"
+		},
+		{
+			"label": "U_CALCIMC"
 		}
 	],
-	"lastProgramExecuted": "U_OLAMUNDO"
+	"lastProgramExecuted": "U_CALCIMC"
 }
