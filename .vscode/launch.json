@@ -14,20 +14,17 @@
 	],
 	"lastPrograms": [
 		{
-			"label": "U_OLAMUNDO"
+			"label": "U_Escopo1"
 		},
 		{
-			"label": "U_TesteCad"
+			"label": "U_OPERADOR"
 		},
 		{
-			"label": "U_MODELUM"
+			"label": "U_ESTRUTOR"
 		},
 		{
-			"label": "U_DtFintAlt"
-		},
-		{
-			"label": "U_CALCIMC"
+			"label": "U_while"
 		}
 	],
-	"lastProgramExecuted": "U_CALCIMC"
+	"lastProgramExecuted": "U_while"
 }
