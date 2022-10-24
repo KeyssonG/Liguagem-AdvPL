@@ -33,7 +33,10 @@
 		},
 		{
 			"label": "U_BLOCO"
+		},
+		{
+			"label": "U_ADIVINHA"
 		}
 	],
-	"lastProgramExecuted": "U_BLOCO"
+	"lastProgramExecuted": "U_ADIVINHA"
 }
