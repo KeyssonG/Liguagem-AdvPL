@@ -24,7 +24,13 @@
 		},
 		{
 			"label": "U_while"
+		},
+		{
+			"label": "U_Avetor"
+		},
+		{
+			"label": "U_Avetor2"
 		}
 	],
-	"lastProgramExecuted": "U_while"
+	"lastProgramExecuted": "U_Avetor2"
 }
