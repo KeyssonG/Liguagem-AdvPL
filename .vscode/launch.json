@@ -30,7 +30,10 @@
 		},
 		{
 			"label": "U_Avetor2"
+		},
+		{
+			"label": "U_BLOCO"
 		}
 	],
-	"lastProgramExecuted": "U_Avetor2"
+	"lastProgramExecuted": "U_BLOCO"
 }
