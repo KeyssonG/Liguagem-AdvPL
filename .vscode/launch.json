@@ -39,7 +39,10 @@
 		},
 		{
 			"label": "U_BANCO001"
+		},
+		{
+			"label": "U_MODELO01"
 		}
 	],
-	"lastProgramExecuted": "U_BANCO001"
+	"lastProgramExecuted": "U_MODELO01"
 }
