@@ -42,7 +42,13 @@
 		},
 		{
 			"label": "U_MODELO01"
+		},
+		{
+			"label": "U_TESTE01"
+		},
+		{
+			"label": "U_TESTE02"
 		}
 	],
-	"lastProgramExecuted": "U_MODELO01"
+	"lastProgramExecuted": "U_TESTE02"
 }
