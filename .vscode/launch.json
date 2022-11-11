@@ -48,7 +48,10 @@
 		},
 		{
 			"label": "U_TESTE02"
+		},
+		{
+			"label": "U_CADAST"
 		}
 	],
-	"lastProgramExecuted": "U_TESTE02"
+	"lastProgramExecuted": "U_TESTE01"
 }

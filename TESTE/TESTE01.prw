@@ -3,11 +3,16 @@
 
 User function TESTE01()
 
-Local nIdade := ""
+Local aArray := {"Financeiro", "Contabilidade", "Estoque"}
+Local nNum := ""
 
-nIdade := val(FWInputbox("Qual a sua idade? " + ""))
-
-MsgAlert("A sua idade é, " + CValToChar(nIdade) + " anos")
+nNum := (FWinputbox("Escolha o ambiente de trabalhar" + ""))
 
 
-return 
+    if nNum == aArray
+
+        MsgAlert("Seja bem vindo ao Financeiro")
+
+    end
+
+return
